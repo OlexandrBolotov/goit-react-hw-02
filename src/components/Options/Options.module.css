@@ -1,0 +1,8 @@
+.options{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.options__button{
+   padding: 4px 8px;
+ cursor: pointer;}
